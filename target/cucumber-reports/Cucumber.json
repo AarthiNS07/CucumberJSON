@@ -1,0 +1,40 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: your.email@your.domain.com"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Login with correct credentials",
+        "description": "",
+        "id": "working-of-login-functionality;login-with-correct-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 159055494020,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User login to application url",
+            "match": {
+              "location": "LoginFeature.user_login_to_application_url()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Working of Login functionality",
+    "description": "",
+    "id": "working-of-login-functionality",
+    "keyword": "Feature",
+    "uri": "LoginFeature.feature"
+  }
+]
